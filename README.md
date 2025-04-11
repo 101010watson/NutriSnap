@@ -29,6 +29,3 @@ A full-stack AI project that allows users to upload an image of their meal and r
 
 ---
 
-## 🗂️ Project Structure
-
-Added Vitamins and Minerals in line16
