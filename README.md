@@ -13,6 +13,7 @@ A full-stack AI project that allows users to upload an image of their meal and r
   - Protein (g)
   - Carbohydrates (g)
   - Fat (g)
+  - Vitamins and Minerals (g)
 - Logs the data in a database for daily or historical tracking.
 
 ---
@@ -30,4 +31,4 @@ A full-stack AI project that allows users to upload an image of their meal and r
 
 ## 🗂️ Project Structure
 
-
+Added Vitamins and Minerals in line16
