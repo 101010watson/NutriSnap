@@ -1,0 +1,427 @@
+{
+    "foods":[
+            {
+                "id": "f_item_01",
+                "name": "Rice (White, Cooked)",
+                "serving size": "1 cup (150g)",
+                "calories": "195 kcal",
+                "protein": "4.1 g",
+                "carbs": "42.3 g",
+                "fat": "0.5 g"
+            },
+            {
+                "id": "f_item_02",
+                "name": "Rice (Brown, Cooked)",
+                "serving size": "1 cup (150g)",
+                "calories": "168 kcal",
+                "protein": "3.5 g",
+                "carbs": "35.3 g",
+                "fat": "1.4 g"
+            },
+            {
+                "id": "f_item_03",
+                "name": "Roti (Whole Wheat)",
+                "serving size": "1 roti (35g)",
+                "calories": "102 kcal",
+                "protein": "4 g",
+                "carbs": "21.6 g",
+                "fat": "0.8 g"
+            },
+            {
+                "id": "f_item_04",
+                "name": "Paratha (Plain)",
+                "serving size": "1 paratha (50g)",
+                "calories": "150 kcal",
+                "protein": "4.5 g",
+                "carbs": "22 g",
+                "fat": "5 g"
+            },
+            {
+                "id": "f_item_05",
+                "name": "Toor Dal (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "121 kcal",
+                "protein": "7 g",
+                "carbs": "22 g",
+                "fat": "0.4 g"
+            },
+            {
+                "id": "f_item_06",
+                "name": "Moong Dal (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "105 kcal",
+                "protein": "7 g",
+                "carbs": "19 g",
+                "fat": "0.4 g"
+            },
+            {
+                "id": "f_item_07",
+                "name": "Chickpeas (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "164 kcal",
+                "protein": "8.9 g",
+                "carbs": "27 g",
+                "fat": "2.6 g"
+            },
+            {
+                "id": "f_item_08",
+                "name": "Rajma (Kidney Beans, Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "127 kcal",
+                "protein": "8.7 g",
+                "carbs": "22.8 g",
+                "fat": "0.5 g"
+            },
+            {
+                "id": "f_item_09",
+                "name": "Black Gram (Urad Dal, Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "105 kcal",
+                "protein": "7.5 g",
+                "carbs": "18 g",
+                "fat": "0.6 g"
+            },
+            {
+                "id": "f_item_10",
+                "name": "Potato (Boiled)",
+                "serving size": "1 medium (100g)",
+                "calories": "77 kcal",
+                "protein": "2 g",
+                "carbs": "17 g",
+                "fat": "0.1 g"
+            },
+            {
+                "id": "f_item_11",
+                "name": "Cauliflower (Cooked)",
+                "serving size": "1 cup (100g)",
+                "calories": "25 kcal",
+                "protein": "2 g",
+                "carbs": "5 g",
+                "fat": "0.3 g"
+            },
+            {
+                "id": "f_item_12",
+                "name": "Spinach (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "23 kcal",
+                "protein": "3 g",
+                "carbs": "3.8 g",
+                "fat": "0.4 g"
+            },
+            {
+                "id": "f_item_13",
+                "name": "Fenugreek Leaves (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "49 kcal",
+                "protein": "4.4 g",
+                "carbs": "6 g",
+                "fat": "0.9 g"
+            },
+            {
+                "id": "f_item_14",
+                "name": "Okra (Cooked)",
+                "serving size": "1 cup (100g)",
+                "calories": "33 kcal",
+                "protein": "1.9 g",
+                "carbs": "7 g",
+                "fat": "0.2 g"
+            },
+            {
+                "id": "f_item_15",
+                "name": "Eggplant (Cooked)",
+                "serving size": "1 cup (100g)",
+                "calories": "35 kcal",
+                "protein": "1 g",
+                "carbs": "8.6 g",
+                "fat": "0.2 g"
+            },
+            {
+                "id": "f_item_16",
+                "name": "Tomato (Raw)",
+                "serving size": "1 medium (100g)",
+                "calories": "18 kcal",
+                "protein": "0.9 g",
+                "carbs": "3.9 g",
+                "fat": "0.2 g"
+            },
+            {
+                "id": "f_item_17",
+                "name": "Onion (Raw)",
+                "serving size": "1 medium (100g)",
+                "calories": "40 kcal",
+                "protein": "1.1 g",
+                "carbs": "9.3 g",
+                "fat": "0.1 g"
+            },
+            {
+                "id": "f_item_18",
+                "name": "Carrot (Raw)",
+                "serving size": "1 medium (60g)",
+                "calories": "25 kcal",
+                "protein": "0.6 g",
+                "carbs": "5.8 g",
+                "fat": "0.1 g"
+            },
+            {
+                "id": "f_item_19",
+                "name": "Banana",
+                "serving size": "1 medium (120g)",
+                "calories": "107 kcal",
+                "protein": "1.3 g",
+                "carbs": "27.4 g",
+                "fat": "0.4 g"
+            },
+            {
+                "id": "f_item_20",
+                "name": "Mango (Raw)",
+                "serving size": "1 cup (165g)",
+                "calories": "99 kcal",
+                "protein": "1.4 g",
+                "carbs": "24.8 g",
+                "fat": "0.6 g"
+            },
+            {
+                "id": "f_item_21",
+                "name": "Apple",
+                "serving size": "1 medium (180g)",
+                "calories": "95 kcal",
+                "protein": "0.5 g",
+                "carbs": "25.1 g",
+                "fat": "0.3 g"
+            },
+            {
+                "id": "f_item_22",
+                "name": "Guava",
+                "serving size": "1 medium (100g)",
+                "calories": "68 kcal",
+                "protein": "2.6 g",
+                "carbs": "14.3 g",
+                "fat": "0.9 g"
+            },
+            {
+                "id": "f_item_23",
+                "name": "Pomegranate",
+                "serving size": "1/2 cup seeds (87g)",
+                "calories": "72 kcal",
+                "protein": "1.5 g",
+                "carbs": "16.3 g",
+                "fat": "1 g"
+            },
+            {
+                "id": "f_item_24",
+                "name": "Papaya (Raw)",
+                "serving size": "1 cup (140g)",
+                "calories": "60 kcal",
+                "protein": "0.7 g",
+                "carbs": "15.1 g",
+                "fat": "0.4 g"
+            },
+            {
+                "id": "f_item_25",
+                "name": "Paneer",
+                "serving size": "2 cubes (50g)",
+                "calories": "133 kcal",
+                "protein": "9 g",
+                "carbs": "2 g",
+                "fat": "10 g"
+            },
+            {
+                "id": "f_item_26",
+                "name": "Curd Cheese (Chenna)",
+                "serving size": "2 cubes (50g)",
+                "calories": "120 kcal",
+                "protein": "8 g",
+                "carbs": "2 g",
+                "fat": "9 g"
+            },
+            {
+                "id": "f_item_27",
+                "name": "Ragi (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "119 kcal",
+                "protein": "3.5 g",
+                "carbs": "25 g",
+                "fat": "0.5 g"
+            },
+            {
+                "id": "f_item_28",
+                "name": "Bajra (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "121 kcal",
+                "protein": "3.5 g",
+                "carbs": "24 g",
+                "fat": "1 g"
+            },
+            {
+                "id": "f_item_29",
+                "name": "Jowar (Cooked)",
+                "serving size": "1 bowl (100g)",
+                "calories": "120 kcal",
+                "protein": "3.5 g",
+                "carbs": "25 g",
+                "fat": "0.8 g"
+            },
+            {
+                "id": "f_item_30",
+                "name": "Idli",
+                "serving size": "2 pieces (100g)",
+                "calories": "140 kcal",
+                "protein": "4 g",
+                "carbs": "28 g",
+                "fat": "0.5 g"
+            },
+            {
+                "id": "f_item_31",
+                "name": "Dosa (Plain)",
+                "serving size": "1 dosa (50g)",
+                "calories": "80 kcal",
+                "protein": "2 g",
+                "carbs": "15 g",
+                "fat": "1 g"
+            },
+            {
+                "id": "f_item_32",
+                "name": "Poha (Cooked)",
+                "serving size": "1 plate (100g)",
+                "calories": "130 kcal",
+                "protein": "2.5 g",
+                "carbs": "27 g",
+                "fat": "1.5 g"
+            },
+            {
+                "id": "f_item_33",
+                "name": "Upma (Cooked)",
+                "serving size": "1 plate (100g)",
+                "calories": "135 kcal",
+                "protein": "3 g",
+                "carbs": "22 g",
+                "fat": "4 g"
+            },
+            {
+                "id": "f_item_34",
+                "name": "Samosa (Potato-Filled)",
+                "serving size": "1 piece (60g)",
+                "calories": "150 kcal",
+                "protein": "3 g",
+                "carbs": "18 g",
+                "fat": "7 g"
+            },
+            {
+                "id": "f_item_35",
+                "name": "Vada (Medu)",
+                "serving size": "1 piece (40g)",
+                "calories": "120 kcal",
+                "protein": "3 g",
+                "carbs": "10 g",
+                "fat": "7 g"
+            },
+            {
+                "id": "f_item_36",
+                "name": "Coconut (Fresh, Grated)",
+                "serving size": "1/4 cup (25g)",
+                "calories": "89 kcal",
+                "protein": "0.8 g",
+                "carbs": "3.8 g",
+                "fat": "8.3 g"
+            },
+            {
+                "id": "f_item_37",
+                "name": "Almonds (Raw)",
+                "serving size": "10 nuts (12g)",
+                "calories": "69 kcal",
+                "protein": "2.5 g",
+                "carbs": "2.6 g",
+                "fat": "6 g"
+            },
+            {
+                "id": "f_item_38",
+                "name": "Cashews (Raw)",
+                "serving size": "10 nuts (15g)",
+                "calories": "83 kcal",
+                "protein": "2.7 g",
+                "carbs": "4.5 g",
+                "fat": "6.6 g"
+            },
+            {
+                "id": "f_item_39",
+                "name": "Peanuts (Roasted)",
+                "serving size": "1/4 cup (30g)",
+                "calories": "170 kcal",
+                "protein": "7.8 g",
+                "carbs": "4.8 g",
+                "fat": "14.9 g"
+            },
+            {
+                "id": "f_item_40",
+                "name": "Jaggery",
+                "serving size": "1 piece (20g)",
+                "calories": "77 kcal",
+                "protein": "0.1 g",
+                "carbs": "19.6 g",
+                "fat": "0 g"
+            },
+            {
+                "id": "f_item_41",
+                "name": "Egg (Boiled)",
+                "serving size": "1 large (50g)",
+                "calories": "78 kcal",
+                "protein": "6.3 g",
+                "carbs": "0.6 g",
+                "fat": "5.3 g"
+            },
+            {
+                "id": "f_item_42",
+                "name": "Chicken (Breast, Cooked)",
+                "serving size": "1 piece (100g)",
+                "calories": "165 kcal",
+                "protein": "31 g",
+                "carbs": "0 g",
+                "fat": "3.6 g"
+            },
+            {
+                "id": "f_item_43",
+                "name": "Mutton (Goat, Cooked)",
+                "serving size": "2 pieces (80g)",
+                "calories": "114 kcal",
+                "protein": "21.6 g",
+                "carbs": "0 g",
+                "fat": "3 g"
+            },
+            {
+                "id": "f_item_44",
+                "name": "Fish (Rohu, Cooked)",
+                "serving size": "1 fillet (100g)",
+                "calories": "97 kcal",
+                "protein": "19 g",
+                "carbs": "0 g",
+                "fat": "2 g"
+            },
+            {
+                "id": "f_item_45",
+                "name": "Prawns (Cooked)",
+                "serving size": "5 medium (50g)",
+                "calories": "50 kcal",
+                "protein": "10.5 g",
+                "carbs": "0.1 g",
+                "fat": "0.7 g"
+            },
+            {
+                "id": "f_item_46",
+                "name": "Crab (Cooked)",
+                "serving size": "1/2 cup meat (50g)",
+                "calories": "42 kcal",
+                "protein": "8.9 g",
+                "carbs": "0 g",
+                "fat": "0.5 g"
+            },
+            {
+                "id": "f_item_47",
+                "name": "Shrimp (Small, Cooked)",
+                "serving size": "10 small (50g)",
+                "calories": "45 kcal",
+                "protein": "9 g",
+                "carbs": "0.1 g",
+                "fat": "0.5 g"
+            }
+        ]
+}
