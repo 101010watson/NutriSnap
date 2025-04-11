@@ -1,0 +1,23 @@
+{
+  "name": "nutrisnap",
+  "version": "1.0.0",
+  "description": "A full-stack AI project that allows users to upload an image of their meal and receive an instant nutritional breakdown—calories, protein, carbohydrates, and fats—using computer vision, machine learning, and modern web technologies.",
+  "main": "GetNutrientInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101010watson/NutriSnap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/101010watson/NutriSnap/issues"
+  },
+  "homepage": "https://github.com/101010watson/NutriSnap#readme",
+  "dependencies": {
+    "fuse.js": "^7.1.0"
+  }
+}
